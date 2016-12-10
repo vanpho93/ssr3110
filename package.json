@@ -1,0 +1,23 @@
+{
+  "name": "react1",
+  "version": "1.0.0",
+  "description": "Lop t7-cn ReactJS buoi 1",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vanpho93/react1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vanpho93/react1/issues"
+  },
+  "homepage": "https://github.com/vanpho93/react1#readme",
+  "dependencies": {
+    "pg": "^6.1.0",
+    "socket.io": "^1.7.1"
+  }
+}
